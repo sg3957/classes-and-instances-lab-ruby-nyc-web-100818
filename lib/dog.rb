@@ -1,5 +1,3 @@
 class Dog 
-  Dog.new("fido")
-  dog2 = "snoopy"
-  dog3 = "lassie"
+  dog1 = Dog.new("fido")
 end 
